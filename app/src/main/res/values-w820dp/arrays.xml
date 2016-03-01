@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<array name="landing_bg">-->
+        <!--<item>@color/light_green</item>-->
+        <!--<item>@color/light_purple</item>-->
+        <!--<item>@color/light_orange</item>-->
+        <!--<item>@color/light_cyan</item>-->
+
+    <!--</array>-->
+
+    <array name="icons">
+        <item>@drawable/intro_first</item>
+        <item>@drawable/intro_first</item>
+        <item>@drawable/intro_first</item>
+        <item>@drawable/intro_first</item>
+
+    </array>
+
+
+    <string-array name="hints" >
+
+        <item>@string/title1_hint</item>
+        <item>@string/title2_hint</item>
+        <item>@string/title3_hint</item>
+        <item>@string/title4_hint</item>
+
+    </string-array>
+</resources>
